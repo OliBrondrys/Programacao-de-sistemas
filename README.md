@@ -1,5 +1,5 @@
 # Programação de sistemas
-> Segundo semestre <
+> Segundo semestre
 ### Unidade 1: Montadores
   Criar tradutores de conteúdo a partir de instruções computacionais em linguagem de máquina utilizando programação procedural de forma correta.
 
